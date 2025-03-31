@@ -1,16 +1,16 @@
-# 👋 Bienvenue sur mon GitHub !
+# 👋 Welcome to my GitHub!
 
-## 🧑‍💻 Moi c’est **Maxence**
+## 🧑‍💻 I'm **Maxence**
 
-🎓 Alternant en **BTS SIO SLAM**  
-📁 Ici, tu trouveras :  
-- Mes projets **école**  
-- Mes projets **professionnels**  
-- Et quelques projets **personnels & locaux**, notamment sur **FiveM**
+🎓 Apprentice in **BTS SIO SLAM** (IT development)  
+📁 Here you'll find:  
+- My **school projects**  
+- My **professional projects**  
+- And some **personal & local projects**, especially around **FiveM**
 
 ---
 
-## 🔧 Technologies que j'utilise
+## 🔧 Technologies I use
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
@@ -21,7 +21,7 @@
 
 ---
 
-## 📊 Mes stats GitHub
+## 📊 GitHub Stats
 
 ![Meweeydev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meweeydev&show_icons=true&theme=tokyonight&hide_title=true)
 
@@ -29,8 +29,8 @@
 
 ---
 
-## 🔗 Liens utiles
+## 🔗 Useful Links
 
-🌐 [Mon site perso](https://maxence-philippon.com)
+🌐 [My personal website](https://maxence-philippon.com)
 
-📫 N'hésite pas à me contacter si tu veux échanger ou collaborer !
+📫 Feel free to reach out if you want to connect or collaborate!
