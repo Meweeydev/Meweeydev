@@ -1,6 +1,6 @@
 # 👋 Bienvenue sur mon GitHub !
 
-## 🧑‍💻 Moi c’est **Meweeydev**
+## 🧑‍💻 Moi c’est **Maxence**
 
 🎓 Alternant en **BTS SIO SLAM**  
 📁 Ici, tu trouveras :  
